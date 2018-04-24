@@ -1,0 +1,1 @@
+# Latihan membuat tema wordpress sendiri
